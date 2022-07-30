@@ -15,6 +15,10 @@ public class Array1 {
 			System.out.println(ele);
 			System.out.println(ele);
 			System.out.println(ele);
+			System.out.println("Mr. Roy");
+			System.out.println("Mr. Roy");
+			System.out.println("Mr. Roy");
+			System.out.println("Mr. Roy");
 			
 		}
 
