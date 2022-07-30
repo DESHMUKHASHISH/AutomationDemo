@@ -11,6 +11,11 @@ public class Array1 {
 		arr[4]=50;
 		for(int ele:arr) {
 			System.out.println(ele);
+			
+			System.out.println(ele);
+			System.out.println(ele);
+			System.out.println(ele);
+			
 		}
 
 	}
